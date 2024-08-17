@@ -14,7 +14,6 @@ In CS-250 I have learned about the development lifecycle of software engineering
 
 This portfolio will showcase my improvements in my skills and mindset as I have improved my previous courses project. This portfolio contains only one project from my mobile architecture development class but can showcase my skills in the categories of databases, software design and engineering, and data structures and algorithms. Given this capstone course I was able to choose three separate projects to improve on, but I have decided to improve one single project to its fullest while incorporating all three categories of improvements. The project I have improved upon is my event tracking app. The project is creating an app through android studio and with the project being a complete app I believed it was best to improve my project to the fullest to showcase my skillset and my growth through the computer science program.
 
-![mask](https://github.com/user-attachments/assets/46477cfa-e6cd-4de1-aedc-185f5df8cad2)
 
 
 
