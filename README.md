@@ -20,8 +20,10 @@ This portfolio will showcase my improvements in my skills and mindset as I have 
 [Code Review](https://youtu.be/Do_xz4LS15E) : Link to my code review of the original project hosted on youtube.
 
 Enhancement 1: The first enhancement invloved improving the code as well as converting from java to kotlin.
-[Enhancement 2]([url](https://youtu.be/v-AjjxVmMcY)): This enhancement invloved implementing a search feature as well as improving data structure.
-[Enhancement 3]([url](https://youtu.be/_j7gP_o8N1U)): The final enhancment improves the database and converts the database from SQLite over to Room.
+
+[Enhancement 2](https://youtu.be/v-AjjxVmMcY) : This enhancement invloved implementing a search feature as well as improving data structure.
+
+[Enhancement 3](https://youtu.be/_j7gP_o8N1U) : The final enhancment improves the database and converts the database from SQLite over to Room.
 
 
 
