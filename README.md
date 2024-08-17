@@ -17,5 +17,9 @@ This portfolio will showcase my improvements in my skills and mindset as I have 
 
 ![image](https://github.com/user-attachments/assets/1ca7b86b-8303-4f47-950a-93667c34dbc1)
 
+[Code Review](https://youtu.be/Do_xz4LS15E) : Link to my code review of the original project hosted on youtube.
+
+
+
 
 
